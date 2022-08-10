@@ -1,7 +1,7 @@
 import unittest
 import employee
 
-# Mocking is woring. 
+# Mocking is working. 
 
 
   # setup and teardown methods for making multiple and long test procedures
