@@ -7,7 +7,7 @@ from employee import Employee
 
 from unittest.mock import patch
 # we can use patch using two ways 1) using decorators, or as contextmanager
-
+#Mocking not working.
 
   # setup and teardown methods for making multiple and long test procedures
         # if we are 100 of test , it will be a pain to maintain. it would be nice. could create these from scratch. 
