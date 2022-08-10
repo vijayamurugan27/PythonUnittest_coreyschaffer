@@ -1,6 +1,9 @@
 import unittest
 import employee
 
+# Mocking is woring. 
+
+
   # setup and teardown methods for making multiple and long test procedures
         # if we are 100 of test , it will be a pain to maintain. it would be nice. could create these from scratch. 
         # in one place, and reuse them for every test.
